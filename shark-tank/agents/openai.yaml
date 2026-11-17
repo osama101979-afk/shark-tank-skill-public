@@ -1,0 +1,14 @@
+interface:
+  display_name: شارك تانك
+  short_description: تقييم أفكار الأعمال والعروض بعدسات المستثمرين
+  default_prompt: استخدم $shark-tank لتحدي فكرة عملي، وتحليل أرقامها، ومقارنتها بعدسات
+    المستثمرين، واقتراح خطوة قابلة للاختبار في السوق الذي يحدده المستخدم.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
