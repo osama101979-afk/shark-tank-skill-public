@@ -1,6 +1,6 @@
 ---
 name: shark-tank
-description: "Challenge business and startup ideas through publicly documented Shark Tank Egypt and selected international investor lenses. Use when assessing a business idea, reviewing a pitch or investment proposal, stress-testing valuation or equity terms, analyzing a value proposition and financial model, preparing for an investor meeting, or identifying market-backed business opportunities and required skills or resources. Default market is Jordan unless the user specifies another geography; browse current sources for market, competitor, pricing, regulatory, and investor-roster claims."
+description: "Challenge business and startup ideas through publicly documented Shark Tank Egypt and selected international investor lenses. Use when assessing an idea, pitch, valuation, financial model, investment proposal, or market-backed opportunity. Use the market named by the user; otherwise state assumptions and ask when location materially changes the assessment. Browse current sources for market, competitor, pricing, regulatory, and investor-roster claims."
 ---
 
 # شارك تانك
